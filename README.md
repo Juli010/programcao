@@ -22,7 +22,7 @@ Algumas linguagens nas quais já tive contato
 
 ## Contato
 
-- Você pode me enviar um e-mail em [seuemail@example.com](mailto:seuemail@example.com).
+- Você pode me enviar um e-mail em [seuemail@example.com](mailto:julio11csargds@gmail.com).
 
 
 Obrigado por visitar meu perfil do GitHub. Espero que possamos colaborar em projetos emocionantes no futuro!
