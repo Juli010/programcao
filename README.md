@@ -18,7 +18,6 @@ Algumas linguagens nas quais já tive contato
 - Linguagem de programação Java
 - Lingugame de programação JS
 - linguagem de programação python 
-- Banco de Dados mysql
 
 ## Contato
 
